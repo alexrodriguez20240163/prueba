@@ -30,6 +30,9 @@ La aplicación integra las **16 competencias** evaluadas en el curso, incluyendo
   - `GetStatisticsAsync` — Estadísticas completas
   - `SearchLocalAsync` — Búsqueda por título o autor
 - `SeedDataAsync` — Carga automática de 12 libros de prueba al primer inicio
+- 
+##Enlace a video de las funcionalidades
+[Video](https://youtu.be/zlzaAHseZhY)
 
 ###— Consumo de API
 - Integración con **Google Books API** (`googleapis.com/books/v1`)
