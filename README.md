@@ -142,7 +142,7 @@ ProyectoFinal_Movil_BibliotecaPersonal/
 ## 🖼️ Screenshots
 
 ### 📱 Biblioteca
-![image.png](z)![Library](./screenshots/library.png)
+![Library](./screenshots/library.png)
 
 ### 🔍 Búsqueda
 ![Search](./screenshots/search.png)
